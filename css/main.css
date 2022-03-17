@@ -1,0 +1,152 @@
+.wrap {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.boshi {
+    width: 1395px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(24, 223, 24);
+    font-weight: bold;
+    border: 3px solid black;
+    margin-bottom: 1.5px;
+    line-height: 50px;
+}
+.bloc {
+    display: flex;
+    gap: 1px;
+    margin-bottom: 1.5px;
+}
+.bloc1 {
+    width: 370px;
+    height: 100px;
+    background-color: rgb(20, 17, 231);
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 90px;
+    border: 3px solid black;
+}
+.bloc1:hover {
+    transform: scale(1.5);
+}
+.bloc2 {
+    width: 370px;
+    height: 100px;
+    background-color: rgb(20, 55, 212);
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    line-height: 90px;
+    border: 3px solid black;
+}
+.bloc2:hover {
+    transform: scale(1.5);
+}
+.bloc3 {
+    width: 370px;
+    height: 100px;
+    background-color: rgb(19, 87, 233);
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 90px;
+    border: 3px solid black;
+}
+.bloc3:hover {
+    transform: scale(1.5);
+}
+.bloc4 {
+    width: 370px;
+    height: 100px;
+    background-color: rgb(11, 32, 219);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 90px;
+    border: 3px solid black;
+}
+.bloc4:hover {
+    transform: scale(1.5);
+}
+.bloch {
+    width: 1395px;
+    height: 60px;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(11, 228, 3);
+    border: 3px solid black;
+    margin-bottom: 1px;
+}
+.blok1 {
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.block {
+    display: flex;
+    gap: 1px;
+}
+
+.rasim1:hover {
+    transition: 4s;
+    transform: rotate(360deg);
+}
+.rasim2:hover{
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.blok2 {
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.rasim2:hover {
+    transition: 4s;
+    transform: rotate(45deg);
+}
+.rasim3:hover{
+    transition: 4s;
+    transform: matrix(0.5, 0.1, 0.1, 0.1, 15, 20);
+}
+.blok3 {
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.blok4 {
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.rasm4:hover {
+    transition: 4s;
+    transform: rotate(90deg) skew(15deg, 10deg) matrix(0.5, 0.1, 0.1, 0.5, 15, 20);
+}
+.blok1 {
+    width: 370px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
